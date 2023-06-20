@@ -1,43 +1,19 @@
-id: example
+id: hydra
 
-name: Example Dojo
+name: Hydra Dojo
 
 description: |
-  This is an [example dojo](https://github.com/pwncollege/example-dojo).
-  Fork this repository, and create your own dojo!
+  This is a dojo created by Zeeshan1234 with 🖤. Adding challenges that I found very interesting!
 
 type: example
 
 modules:
 
-  - id: hello
-    name: Hello
-    description: The first module in this example dojo.
+  - id: hydra
+    name: Hydra
+    description: Random challenges from a random guy.
 
     challenges:
-
-      - id: apple
-        name: Apple
-        description: This is apple.
-
-      - id: banana
-        name: Banana
-        description: This is banana.
-
-  - id: world
-    name: World
-    description: The second module in this example dojo.
-
-    challenges:
-
-      - id: earth
-        name: Earth
-        description: This is earth.
-
-      - id: mars
-        name: Mars
-        description: This is mars.
-
-      - id: venus
-        name: Venus
-        description: This is venus.
+      - id: babyspirit
+        name: Babyspirit
+        description: This is an old challenge that I made while learning heap. Should be straightforward based on the name :)
