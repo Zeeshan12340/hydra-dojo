@@ -17,3 +17,7 @@ modules:
       - id: babyspirit
         name: Babyspirit
         description: This is an old challenge that I made while learning heap. Should be straightforward based on the name :)
+
+      - id: babyrop
+        name: Babyrop
+        description: Basic program to show that even a "full protections enabled" program can be easily pwned with two simple bugs.
