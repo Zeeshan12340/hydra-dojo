@@ -21,3 +21,7 @@ modules:
       - id: babyrop
         name: Babyrop
         description: Basic program to show that even a "full protections enabled" program can be easily pwned with two simple bugs.
+
+      - id: babysig
+        name: Babysig
+        description: Challenge to showcase sigrop, completely written in assembly just because I can :p
