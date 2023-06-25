@@ -25,3 +25,7 @@ modules:
       - id: babysig
         name: Babysig
         description: Challenge to showcase sigrop, completely written in assembly just because I can :p
+
+      - id: babycsu
+        name: Babycsu
+        description: Should be clear from the name. Challenge concept taken from ropemporium's ret2csu.
