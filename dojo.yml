@@ -29,3 +29,7 @@ modules:
       - id: babycsu
         name: Babycsu
         description: Should be clear from the name. Challenge concept taken from ropemporium's ret2csu.
+
+      - id: babyelf
+        name: Babyelf
+        description: How well do you know the elf file format?
