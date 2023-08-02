@@ -33,3 +33,7 @@ modules:
       - id: babyelf
         name: Babyelf
         description: How well do you know the elf file format?
+
+      - id: babykernel
+        name: Babykernel
+        description: A walkthrough challenge on primitives in the kernel!
