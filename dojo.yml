@@ -37,3 +37,7 @@ modules:
       - id: babykernel
         name: Babykernel
         description: A walkthrough challenge on primitives in the kernel!
+      
+      - id: babyprintf
+        name: BabyPrintf
+        description: Get a shell using a single printf!
