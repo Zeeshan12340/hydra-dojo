@@ -44,3 +44,7 @@ modules:
       - id: babyprintf
         name: BabyPrintf
         description: Get a shell using a single printf!
+
+      - id: babywindows
+        name: BabyWindows
+        description: Basic windows challenge to play with rop.
