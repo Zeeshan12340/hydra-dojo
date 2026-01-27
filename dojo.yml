@@ -47,4 +47,4 @@ modules:
 
       - id: babywindows
         name: BabyWindows
-        description: Basic windows challenge to play with rop.
+        description: Basic windows challenge to play with rop. Checkout Getting Started instructions [here](https://pwn.college/windows-warzone/windows-crash-course) if needed.
