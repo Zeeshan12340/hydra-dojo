@@ -1,6 +1,7 @@
 id: hydra
 
 name: Hydra Dojo
+image: pwncollege/challenge-legacy:latest
 
 description: |
   This is a dojo created by Zeeshan1234 with 🖤. Adding challenges that I found very interesting!
