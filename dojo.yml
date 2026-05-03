@@ -1,7 +1,6 @@
 id: hydra
 
 name: Hydra Dojo
-image: pwncollege/challenge-legacy:latest
 
 description: |
   This is a dojo created by Zeeshan1234 with 🖤. Adding challenges that I found very interesting!
@@ -15,7 +14,7 @@ modules:
   - id: hydra
     name: Hydra
     description: Random challenges from a random guy.
-    image: pwncollege/challenge-legacy:latest
+    image: pwncollege/windows
 
     challenges:
       - id: babyspirit
@@ -46,6 +45,6 @@ modules:
         name: BabyPrintf
         description: Get a shell using a single printf!
 
-      # - id: babywindows
-      #   name: BabyWindows
-      #   description: Basic windows challenge to play with rop. Checkout Getting Started instructions [here](https://pwn.college/windows-warzone/windows-crash-course) if needed.
+      - id: babywindows
+        name: BabyWindows
+        description: Basic windows challenge to play with rop. Checkout Getting Started instructions [here](https://pwn.college/windows-warzone/windows-crash-course) if needed.
